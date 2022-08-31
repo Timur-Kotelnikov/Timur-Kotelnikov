@@ -16,13 +16,20 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
+
+My email:
+crowly086@gmail.com
+
+My telegram bot:
+https://t.me/Timur92_bot
+
+My web-site (in progress):
+https://timur-kotelnikov.herokuapp.com/
+
 My codewars page:
 https://www.codewars.com/users/crowly086
 
 ![codewars](https://www.codewars.com/users/crowly086/badges/large)
-
-My email:
-crowly086@gmail.com
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Timur-Kotelnikov)
 
