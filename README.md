@@ -1,5 +1,5 @@
 # Timur Kotelnikov
-![](my_foto.jpg)
+![](my_photo.jpg)
 
 ## I started to learn Python. Please say Good Luck to me!
 My codewars page:
